@@ -3,3 +3,6 @@ tags
 *.pyc
 __pycache__/
 src/petrichor.egg-info/
+.coverage
+coverage.xml
+htmlcov/
