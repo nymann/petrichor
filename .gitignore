@@ -6,3 +6,6 @@ src/petrichor.egg-info/
 .coverage
 coverage.xml
 htmlcov/
+build/
+dist/
+.eggs/
